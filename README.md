@@ -1,5 +1,8 @@
 # Power Consumption Prediction App
-
+<div>
+<img width="1699" height="930" alt="Screenshot 2026-01-04 144915" src="https://github.com/user-attachments/assets/d3e701eb-a958-4c20-9a40-bea9894f02f9" />
+<img width="1687" height="893" alt="Screenshot 2026-01-04 144932" src="https://github.com/user-attachments/assets/f91e1054-0f70-4858-9e21-dc81338dcf41" />
+</div>
 This project predicts household power consumption using historical electrical measurements and time-based features.  
 It includes a trained machine learning model, a Streamlit web application, and a Docker setup for easy deployment.
 
